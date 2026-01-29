@@ -48,7 +48,7 @@ export default function MotionBackground() {
                     backgroundPosition: 'center',
                     x: animatedX,
                     y: animatedY,
-                    filter: 'brightness(0.5) contrast(1.2) grayscale(0.5)',
+                    filter: 'brightness(0.7) contrast(1.1) grayscale(0.3)',
                     scale: 1.1
                 }}
             />
