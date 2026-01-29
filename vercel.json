@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "cleanUrls": true,
+    "trailingSlash": true,
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/$1"
+        }
+    ],
+    "github": {
+        "silent": true
+    }
+}
